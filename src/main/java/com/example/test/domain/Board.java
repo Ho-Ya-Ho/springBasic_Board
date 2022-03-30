@@ -1,3 +1,5 @@
+//여기가 MVC모델에서 model 부분
+
 package com.example.test.domain;
 
 import lombok.Getter;
